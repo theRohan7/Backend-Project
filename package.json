@@ -1,0 +1,18 @@
+{
+  "name": "04-fullbackend",
+  "version": "1.0.0",
+  "description": "full backend project of video playing application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rohan",
+    "Video",
+    "code",
+    "JavaScript",
+    "Chai"
+  ],
+  "author": "Rohan Sahu",
+  "license": "ISC"
+}
