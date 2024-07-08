@@ -2,9 +2,10 @@
   "name": "04-fullbackend",
   "version": "1.0.0",
   "description": "full backend project of video playing application.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "Rohan",
@@ -14,5 +15,8 @@
     "Chai"
   ],
   "author": "Rohan Sahu",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
