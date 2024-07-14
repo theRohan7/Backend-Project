@@ -1,7 +1,7 @@
     /* Creating Custom Middleware for logout functionality  */
     
 import { User } from "../models/user.model.js";
-import { ApiError } from "../utils/ApiError";
+import { ApiError } from "../utils/ApiError.js";
 import { asyncHandler } from "../utils/asyncHandler.js";
 import jwt from "jsonwebtoken";
 
